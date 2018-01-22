@@ -1,0 +1,10 @@
+c:\users\kundan.kumar\documents\visual studio 2015\Projects\MarketReport\MarketReport\bin\Debug\MarketReport.exe.config
+c:\users\kundan.kumar\documents\visual studio 2015\Projects\MarketReport\MarketReport\bin\Debug\MarketReport.exe
+c:\users\kundan.kumar\documents\visual studio 2015\Projects\MarketReport\MarketReport\bin\Debug\MarketReport.pdb
+c:\users\kundan.kumar\documents\visual studio 2015\Projects\MarketReport\MarketReport\bin\Debug\MySql.Data.dll
+c:\users\kundan.kumar\documents\visual studio 2015\Projects\MarketReport\MarketReport\bin\Debug\Newtonsoft.Json.dll
+c:\users\kundan.kumar\documents\visual studio 2015\Projects\MarketReport\MarketReport\bin\Debug\QuandlCS.dll
+c:\users\kundan.kumar\documents\visual studio 2015\Projects\MarketReport\MarketReport\bin\Debug\QuandlCS.pdb
+c:\users\kundan.kumar\documents\visual studio 2015\Projects\MarketReport\MarketReport\bin\Debug\Newtonsoft.Json.xml
+c:\users\kundan.kumar\documents\visual studio 2015\Projects\MarketReport\MarketReport\obj\Debug\MarketReport.exe
+c:\users\kundan.kumar\documents\visual studio 2015\Projects\MarketReport\MarketReport\obj\Debug\MarketReport.pdb
